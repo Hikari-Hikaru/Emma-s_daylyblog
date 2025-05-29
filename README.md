@@ -21,11 +21,11 @@
     <ul>
       <li><a href="https://hikari-hikaru.github.io/Emma_dailyblog_1/">2025-04-05（daily1）</a></li>
       <li><a href="https://hikari-hikaru.github.io/Emma_dailyblog_2/">2025-04-10（daily2）</a></li>
-      <li><a href="https://hikari-hikaru.github.io/Emma-s_daylyblog_3/">2025-04-20（daily3）</a></li>
-      <li><a href="https://hikari-hikaru.github.io/Emma-s_daylyblog_4/">2025-04-25（daily4）</a></li>
+      <li><a href="https://hikari-hikaru.github.io/Emma-s_dailyblog_3/">2025-04-20（daily3）</a></li>
+      <li><a href="https://hikari-hikaru.github.io/Emma-s_dailyblog_4/">2025-04-25（daily4）</a></li>
       <li><a href="https://hikari-hikaru.github.io/Emma-s_dailyblog_5/">2025-05-01（daily5）</a></li>
-      <li><a href="https://hikari-hikaru.github.io/Emma-s_daylyblog_6/">2025-05-08（daily6）</a></li>
-      <li><a href="https://hikari-hikaru.github.io/Emma-s_daylyblog_7/">2025-05-14（daily7）</a></li>
+      <li><a href="https://hikari-hikaru.github.io/Emma-s_dailyblog_6/">2025-05-08（daily6）</a></li>
+      <li><a href="https://hikari-hikaru.github.io/Emma-s_dailyblog_7/">2025-05-14（daily7）</a></li>
     </ul>
   </main>
 
