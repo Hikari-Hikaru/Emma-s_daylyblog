@@ -1,6 +1,6 @@
-<!DOCTYPE html>
 <html lang="ja">
 <head>
+  <!DOCTYPE html>
   <meta charset="UTF-8">
   <title>Emma’s dayly blog✨</title>
   <link rel="stylesheet" href="style.css"> <!-- ★ここに書く！ -->
