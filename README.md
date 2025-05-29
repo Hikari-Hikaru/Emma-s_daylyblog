@@ -22,7 +22,7 @@
     <h2>ブログ一覧</h2>
  <ul>
 　<li><a href="https://hikari-hikaru.github.io/Emma_dailyblog_1/">2025_04_05（dayly1ページ）</a></li>
- <li><a href="https://hikari-hikaru.github.io/dairy2/">2025_04_10（dayly2ページ）</a></li>
+ <li><a href="https://hikari-hikaru.github.io/Emma_dailyblog_2/">2025_04_10（dayly2ページ）</a></li>
  <li><a href="https://hikari-hikaru.github.io/Emma-s_daylyblog_3/">2025_04_20（dayly3ページ）</a></li>
  <li><a href="https://hikari-hikaru.github.io/Emma-s_daylyblog_3/">2025_04_25（dayly4ページ）</a></li>
   <li><a href="https://hikari-hikaru.github.io/Emma-s_dailyblog_5/">2025_05_01（dayly5ページ）</a></li>
